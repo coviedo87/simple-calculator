@@ -4,6 +4,9 @@ This is a calculator project using React. The app should be able to perform basi
 ## Instructions
 There is an instruction file if you want to recreate this project from scratch
 
+## live site URL
+https://simplecalculatoro.netlify.app/
+
 ## Output
 
 
